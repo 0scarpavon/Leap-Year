@@ -25,4 +25,8 @@ def in_between_years(start,end):
    for i in range(start,end):
     if i % 4 == 0: 
         print (i)
-in_between_years(1920,2000)
+in_between_years(2000,2016)
+
+# git status == check what needs to be updated 
+# git add == add files to sync/upload to github
+
